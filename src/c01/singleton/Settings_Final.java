@@ -1,4 +1,4 @@
-package singleton;
+package c01.singleton;
 
 public class Settings_Final {
 
